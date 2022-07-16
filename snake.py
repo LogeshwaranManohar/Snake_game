@@ -1,7 +1,8 @@
+#Welcome to my snake world
+
 from turtle import Turtle
 POS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_DIST = 20
-
 
 class Snake:
 
